@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/TODO-app/static/css/main.0927eaf0.css",
-    "main.js": "/TODO-app/static/js/main.71281e23.js",
-    "static/media/todo image3.jpg": "/TODO-app/static/media/todo image3.a2f7af36a644a1061be5.jpg",
-    "index.html": "/TODO-app/index.html",
-    "main.0927eaf0.css.map": "/TODO-app/static/css/main.0927eaf0.css.map",
-    "main.71281e23.js.map": "/TODO-app/static/js/main.71281e23.js.map"
+    "main.css": "//fransisca-somto.github.io/TODO-APP/static/css/main.e4001b77.css",
+    "main.js": "//fransisca-somto.github.io/TODO-APP/static/js/main.71281e23.js",
+    "static/media/todo image3.jpg": "//fransisca-somto.github.io/TODO-APP/static/media/todo image3.a2f7af36a644a1061be5.jpg",
+    "index.html": "//fransisca-somto.github.io/TODO-APP/index.html",
+    "main.e4001b77.css.map": "//fransisca-somto.github.io/TODO-APP/static/css/main.e4001b77.css.map",
+    "main.71281e23.js.map": "//fransisca-somto.github.io/TODO-APP/static/js/main.71281e23.js.map"
   },
   "entrypoints": [
-    "static/css/main.0927eaf0.css",
+    "static/css/main.e4001b77.css",
     "static/js/main.71281e23.js"
   ]
 }
